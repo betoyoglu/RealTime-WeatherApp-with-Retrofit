@@ -6,8 +6,7 @@
 This project is a demonstration developed using modern Kotlin and Jetpack Compose, showcasing how to build a clean and scalable Android application. The app retrieves instant weather data for a user-input location from a public weather API (https://www.weatherapi.com/) using Retrofit and displays it beautifully.
 ## Screenshots
 
-![App Screenshot](<img width="436" height="885" alt="image" src="https://github.com/user-attachments/assets/f3af4647-643d-47c9-ad75-37c6be6edd73" />
-)
+![App Screenshot](https://github.com/user-attachments/assets/f3af4647-643d-47c9-ad75-37c6be6edd73)
 
 
 ## Tech Stack
