@@ -60,4 +60,10 @@ dependencies {
     val retrofitVersion = "2.11.0"
     implementation("com.squareup.retrofit2:retrofit:$retrofitVersion")
     implementation("com.squareup.retrofit2:converter-gson:${retrofitVersion}")
+
+    implementation("androidx.compose.runtime:runtime-livedata:1.9.4")
+
+    //image
+    implementation("io.coil-kt.coil3:coil-compose:3.0.2")
+    implementation("io.coil-kt.coil3:coil-network-okhttp:3.0.2")
 }
